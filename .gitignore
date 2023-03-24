@@ -17,3 +17,6 @@ screenshots/bug.png
 screenshots/gt_annotation.png
 screenshots/gt_annotation_y_z.png
 screenshots/original_image.png
+imgs/demo_gt.tif
+imgs/demo_segmentation_result.tif
+screenshots/instance-vs-semantic-segmentation-1024x362.png
