@@ -23,3 +23,4 @@ screenshots/instance-vs-semantic-segmentation-1024x362.png
 notebooks/2. quality assurance/Segmentation quality assurance.ipynb
 notebooks/2. quality assurance/.ipynb_checkpoints/Segmentation quality assurance-checkpoint.ipynb
 notebooks/2. quality assurance/.ipynb_checkpoints/Segmentation quality assurance-checkpoint.ipynb
+*.csv
