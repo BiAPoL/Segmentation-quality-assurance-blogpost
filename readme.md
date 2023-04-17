@@ -4,7 +4,7 @@ This work is licensed by Mara Lampert, PoL Dresden under a Creative Commons Attr
 
 This repository hosts jupyter notebooks, images and videos for the segmentation quality assurance blog post.
 
-Here you can find the blog post: https://focalplane.biologists.com/2023/03/20/quality-assurance-of-segmentation-results/
+Here you can find the blog post: https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/
 
 
 # Acknowledgements
